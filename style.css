@@ -188,7 +188,7 @@ p.lead {
     }
     .navbar-nav>.nav-item>.nav-link.active:after {
         content: "";
-        border-bottom: 2px solid #cd99d4;
+        border-bottom: 2px solid #0a0a0a;
         left: 1rem;
         right: 1rem;
         bottom: 5px;
@@ -226,7 +226,7 @@ header {
 .tagline {
     font-size: 23px;
     font-weight: 300;
-    color: #ffb8f6;
+    color: #0a0a0a;
     max-width: 800px;
     margin: 0 auto;
 }
