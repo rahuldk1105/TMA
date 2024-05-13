@@ -402,7 +402,7 @@ header {
 .nav-tabs .nav-link:focus,
 .nav-tabs .nav-link:hover {
     padding: 1rem 1rem;
-    border-color: #faf6fb #faf6fb #FFF;
+    border-color: #0a0a0a;
     font-size: 19px;
     color: #0a0a0a;
     background: #0a0a0a;
@@ -411,7 +411,7 @@ header {
 .nav-tabs .nav-link.active {
     background: #FFF;
     border-top-width: 3px;
-    border-color: #ce75b4 #faf6fb #FFF;
+    border-color: #0a0a0a;
     color: #0a0a0a;
 }
 
@@ -433,7 +433,7 @@ header {
 }
 
 .blockquote {
-    color: #7a767a;
+    color:#0a0a0a;
     font-weight: 300;
 }
 
