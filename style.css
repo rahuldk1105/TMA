@@ -25,12 +25,12 @@ body {
 }
 
 a {
-    color: #e38cb7;
+    color: #0a0a0a;
 }
 
 a:hover,
 a:focus {
-    color: #d6619c;
+    color: #0a0a0a;
 }
 
 h1 {
