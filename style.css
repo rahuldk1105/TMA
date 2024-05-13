@@ -404,15 +404,15 @@ header {
     padding: 1rem 1rem;
     border-color: #faf6fb #faf6fb #FFF;
     font-size: 19px;
-    color: #b5a4c8;
-    background: #f5eff7;
+    color: #0a0a0a;
+    background: #0a0a0a;
 }
 
 .nav-tabs .nav-link.active {
     background: #FFF;
     border-top-width: 3px;
     border-color: #ce75b4 #faf6fb #FFF;
-    color: #633991;
+    color: #0a0a0a;
 }
 
 
